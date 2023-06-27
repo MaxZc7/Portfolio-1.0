@@ -12,14 +12,14 @@ export default function Work2() {
         <div className=" md:mt-[15vh] mt-[5vh] md:grid md:grid-cols-2 gap-10 max-w-[1800px] mx-auto ">
           <div className="md:text-2xl text-sm text-center flex flex-col md:gap-[10vh]   ">
             <h5 className="p-2">
-              Trendy Haven es un <strong>E-commerce</strong> en el cual se
-              pueden adquirir varios productos, con opciones de registrarse,
-              almacenar , hacer y ver tus ordenes, incluyendo simulacion de pago
+              Trendy Haven is a <strong>E-commerce</strong> in which you can
+              purchase various products, with options to register, store, make
+              and view your orders, including payment simulation
             </h5>
             <h5 className="p-2">
-              Esta desarrolado para demostrar capacidades{' '}
-              <strong>Full-stack</strong>, usa un conjunto <strong>MERN</strong>{' '}
-              por lo que es un sitio completo y competitivo
+              It is developed to demonstrate capabilities{' '}
+              <strong>Full-stack</strong>, use a <strong>MERN</strong> set so it
+              is a complete and competitive site
             </h5>
             <div className="flex justify-center md:h-[5vh] h-[15vh] items-center ">
               <a

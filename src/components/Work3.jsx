@@ -16,15 +16,15 @@ export default function Work3() {
           </a>
           <div className="flex flex-col  md:gap-[11.5vh] mt-[5vh] md:mt-0 gap-[1vh]">
             <h5 className="textsWhite md:text-2xl text-sm px-1 text-center">
-              Este es un <strong>proyecto de clinica</strong> basado en una
-              clinica real, con presentacion, contactos, direcciones y con toda
-              la informacion para contactar al cliente con la sucural que sea
-              necesaria
+              This is a <strong>project of a clinic</strong> based on a real
+              clinic, with presentation, contacts, addresses and with all the
+              information to contact the client with the branch that is
+              necessary
             </h5>
             <h5 className="textsWhite md:text-2xl  text-sm px-1 text-center">
-              Es un modelo para probar diseños y <strong>experimentar</strong>{' '}
-              con tecnologias como <strong>tailwind</strong>, fue hecho para una
-              clinica conocida en la cual queria basarme para nuevas practicas
+              It is a model for testing designs and <strong>experiment</strong>{' '}
+              with technologies like <strong>tailwind</strong>, It was done for
+              a recognized clinic in which he wants to base me for new practices
             </h5>
             <div className="flex justify-center md:h-0 h-[15vh] items-center ">
               <a

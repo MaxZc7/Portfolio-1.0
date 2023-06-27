@@ -35,16 +35,16 @@ export default function Contact() {
       </div>
       <div className="md:pt-[10vh] pt-[5vh] flex flex-col  max-w-[1500px] mx-auto ">
         <div className="md:text-6xl text-4xl text-center md:text-start textsSBlack tracking-wide">
-          <h5 className="">Interesado?</h5>
-          <h5 className="md:py-[1vh]">Conectemos ahora mismo!</h5>
+          <h5>Interested?</h5>
+          <h5 className="md:py-[1vh]">Let&#8217;s connect right now!</h5>
           <p className="py-[5vh] md:text-2xl text-base  texts tracking-normal">
-            Realmente no soy muy activo en las{' '}
-            <strong className="md:text-3xl ">redes</strong> pero me mantengo al
-            tanto a diario y subiendo algunos proyectos, actualmente mi{' '}
-            <strong className="md:text-3xl ">objetivo</strong> es continuar
-            aprendiendo y
-            <strong className="md:text-3xl "> desarrollando </strong> de mejor
-            forma!
+            Really i am not very active in the{' '}
+            <strong className="md:text-3xl ">socials </strong>
+            but I keep up to date daily and uploading some projects, currently
+            my <strong className="md:text-3xl ">goal</strong> is to continue
+            learning and
+            <strong className="md:text-3xl "> developing </strong> of better
+            shape!
           </p>
         </div>
         <div className="flex flex-col  md:grid md:grid-cols-2">
@@ -59,19 +59,19 @@ export default function Contact() {
             ref={form}
             onSubmit={sendEmail}
           >
-            <h5 className=" md:text-5xl text-3xl text-center md:text-start font-bold">
-              Contactame
+            <h5 className=" md:text-5xl m-1 text-3xl text-center md:text-start font-bold">
+              Contact Me
             </h5>
             <div className="flex flex-col md:flex-row my-[2vh]">
               <input
-                className="p-3 px-6 mx-2 border border-black rounded-md"
+                className="p-3 px-4 mx-2 border border-black rounded-md"
                 type="text"
                 name="user_name"
-                placeholder="Nombre"
+                placeholder="Name"
                 required
               ></input>
               <input
-                className="p-3 px-6 mx-2 border border-black rounded-md"
+                className="p-3 px-4 mx-2 border border-black rounded-md"
                 type="email"
                 name="user_email"
                 placeholder="Email"
@@ -80,7 +80,7 @@ export default function Contact() {
             </div>
             <div className="flex flex-col md:my-[2vh]">
               <textarea
-                className="w-[68%] p-3 md:mx-2 mx-auto border border-black rounded-md"
+                className="w-[65.5%] p-3 md:mx-2 mx-auto border border-black rounded-md"
                 rows={4}
                 name="message"
                 type="text"

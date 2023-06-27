@@ -52,18 +52,17 @@ export default function Works() {
           <div className="flex flex-col md:gap-[9.5vh]  gap-[1vh] tracking-wide">
             <div className="text-center ">
               <h4 className="textsWhite md:text-2xl text-sm p-2  text-center mx-auto">
-                Tayl es una empresa que se dedica a guiar{' '}
-                <strong>startups</strong> y marcas que han arrancado en el
-                mercado recientemente y necesiten ayuda para mejorar su diseñó
-                de marca o su crecimiento
+                Tayl is a company dedicated to guiding <strong>startups</strong>{' '}
+                and brands that have started in the market recently and need
+                help to improve their design of brand or its growth
               </h4>
             </div>
             <div className="text-center ">
               <h4 className="textsWhite md:text-2xl text-sm p-2  text-center mx-auto">
-                Fue creada para mostrar un ejemplo de{' '}
-                <strong>landing page</strong> con unico diseño y trabajo
-                <strong> front-end</strong>, tambien fue aplicado un embed de
-                calendly para solicitar citas de manera eficiente{' '}
+                It was created to show an example of{' '}
+                <strong>landing page</strong> with unique design and work
+                <strong> front-end</strong>, a calendly embed was also applied
+                to efficiently request appointments{' '}
               </h4>
             </div>
             <div className="flex justify-center md:h-0 h-[15vh] items-center ">
